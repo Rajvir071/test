@@ -12,7 +12,7 @@ pkg install python2
 
 pip2 install requests pip2 install mechanize
 
-git@github.com:test/BlackMaifa.gi
+https://github.com/Rajvir071/test/BlackMaifa.gi
 
 t
 
